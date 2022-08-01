@@ -1,46 +1,31 @@
+### Hi there 👋, my name is Avi Kapoor
+#### I am the creator of this GitHub Readme Generator
+![I am GitHub Readme Generator's creator]([https://github.com/avikapoor24/avikapoor24/blob/main/Hii%20i%20am%20Avi%20Kapoor.gif?raw=true])
 
-<p align="center"><a href="https://avikapoor24.github.io"><img width="80%" alt="Hello, I'm Avi. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<br />
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-I'm a Student pursuing my B.tech at Guru Tegh Bahadur Institute of Technology
-
-**About me**
-
-- 💼 Student at [GTBIT](http://gtbit.org/)
-
-- 📈 Built custom music bots on discord
-
-- ❤️ I love building discord bots, and learning to combining codes to advance bot functions
-
-- 💬 Ask me about anything [here](https://github.com/https://avikapoor24/avikapoor24/issues)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- 🔭 I’m currently working on this page. DSA 
+- 🌱 I’m currently learning  web development in web 3.0 
+- 💬 Ask me about anything[here](https://www.linkedin.com/in/avi-kapoor-702330229) 
+- 📫 How to reach me: 15.avikapoor@gmail.com or avikapoor244@gmail.com
+- 😄 Pronouns: him
+- ⚡ Fun fact: I like taking pictures or sky 
 
 
-| <a href="https://github.com/avikapoor24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avikapoor24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Avi's github stats" /></a> | <a href="https://github.com/avikapoor24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikapoor24&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avikapoor24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avi-kapoor-702330229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/avikapoor16?igshid=YmMyMTA2M2Y=/)  
 
-#### Top Repositories
+[![trophy](https://github-profile-trophy.vercel.app/?username=avikapoor24)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikapoor24)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/avikapoor24/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avikapoor24&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/avikapoor24/avikapoor24.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=avikapoor24&repo=avikapoor24.github.io&theme=buefy" />
-</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avikapoor24&show_icons=true&count_private=true)  
 
-<br />
-<br />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=avikapoor24)  
 
-<a href="https://twitter.com/avikapoor_16">
-  <img align="right" alt="Avi Kapoor | Twitter" width="21px" src="https://raw.githubusercontent.com/avikapoor24/avikapoor24/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/avikapoor24">
-  <img align="right" alt="Avi Kapoor | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/avikapoor24/avikapoor24/master/assets/codesandbox.svg" />
-</a>
+![GitHub metrics](https://metrics.lecoq.io/avikapoor24)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=avikapoor24)  
+
+![Profile views](https://gpvc.arturio.dev/avikapoor24)  
