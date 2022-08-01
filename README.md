@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a Student pursuing my B.tech at Guru Tegh Bahadur Institute of Technology
 
 **About me**
 
