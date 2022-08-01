@@ -3,7 +3,8 @@
 ![I am the creator of this GitHub Readme Generator](https://github.com/avikapoor24/avikapoor24/blob/main/Hii%20i%20am%20Avi%20Kapoor.gif?/size=360x360)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-![Profile views](https://gpvc.arturio.dev/avikapoor24) 
+![Profile views](https://gpvc.arturio.dev/avikapoor24)
+
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. DSA 
