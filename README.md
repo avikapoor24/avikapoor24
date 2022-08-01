@@ -14,6 +14,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - ⚡ Fun fact: I like taking pictures of sky. 
 
 **Connect with me:**
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avikapoor24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avi-kapoor-702330229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/avikapoor16?igshid=YmMyMTA2M2Y=/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avikapoor24)](https://github.com/ryo-ma/github-profile-trophy)
