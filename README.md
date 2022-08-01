@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Avi Kapoor
 #### I am the creator of this GitHub Readme Generator
-![I am GitHub Readme Generator's creator]([https://github.com/avikapoor24/avikapoor24/blob/main/Hii%20i%20am%20Avi%20Kapoor.gif?raw=true])
+![I am the creator of this GitHub Readme Generator]([https://github.com/avikapoor24/avikapoor24/blob/main/Hii%20i%20am%20Avi%20Kapoor.gif?raw=true])
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
