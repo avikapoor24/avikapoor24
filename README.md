@@ -5,9 +5,8 @@
 </h3>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-![Profile views](https://gpvc.arturio.dev/avikapoor24)
 
-**Skills:** VUE JS / REACT / JS / HTML / CSS
+**About me**
 
 - 🔭 I’m currently working on this page. DSA 
 - 🌱 I’m currently learning  web development in web 3.0 
@@ -16,11 +15,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 😄 Pronouns: him
 - ⚡ Fun fact: I like taking pictures of sky. 
 
+**My Skills:** VUE JS / REACT / JS / HTML / CSS
+
 **Connect with me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avikapoor24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avi-kapoor-702330229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/avikapoor16?igshid=YmMyMTA2M2Y=/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avikapoor24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avi-kapoor-702330229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/http://instagram.com/avikapoor16/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/avikapoor_16?t=XJ7v0Ii3d0MlNUG6kAGDZA&s=08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>]([https://stackexchange.com/users/25951274/avi-kapoor]) 
 
-
+**Trophy's**
 [![trophy](https://github-profile-trophy.vercel.app/?username=avikapoor24)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avikapoor24)](https://github.com/anuraghazra/github-readme-stats)
