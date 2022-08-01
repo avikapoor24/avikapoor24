@@ -23,7 +23,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 **GitHubTrophy's**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avikapoor24)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)
+[![trophy](https://github-profile-trophy.vercel.app/?username=avikapoor24)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)
 
 **More About me**
 
