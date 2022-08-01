@@ -1,11 +1,13 @@
-### Hi there 👋, my name is Avi Kapoor
-#### I am the creator of this GitHub Readme Generator
 ![I am the creator of this GitHub Readme Generator](https://github.com/avikapoor24/avikapoor24/blob/e0811f3cd78f63c2b71a1829f2808c6b276df455/Welcome%20To%20my%20github%20(4).gif)
+
+<h1 align="center">Hi 👋, I'm Avi Kapoor</h1>
+<h3 align="center">I am the creator of this GitHub Readme Generator
+</h3>
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 ![Profile views](https://gpvc.arturio.dev/avikapoor24)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+**Skills:** VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. DSA 
 - 🌱 I’m currently learning  web development in web 3.0 
