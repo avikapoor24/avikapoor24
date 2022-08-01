@@ -8,7 +8,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. DSA 
 - 🌱 I’m currently learning  web development in web 3.0 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/avi-kapoor-702330229) 
+- 💬 Ask me about anything at my [Linkdin](https://www.linkedin.com/in/avi-kapoor-702330229) 
 - 📫 How to reach me: 15.avikapoor@gmail.com or avikapoor244@gmail.com
 - 😄 Pronouns: him
 - ⚡ Fun fact: I like taking pictures of sky. 
