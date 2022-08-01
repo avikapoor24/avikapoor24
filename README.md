@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Avi Kapoor
 #### I am the creator of this GitHub Readme Generator
-![I am the creator of this GitHub Readme Generator]([https://github.com/avikapoor24/avikapoor24/blob/main/Hii%20i%20am%20Avi%20Kapoor.gif?raw=true])
+![I am the creator of this GitHub Readme Generator]([https://github.com/avikapoor24/avikapoor24/blob/main/Hii%20i%20am%20Avi%20Kapoor.gif])
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -8,10 +8,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. DSA 
 - 🌱 I’m currently learning  web development in web 3.0 
-- 💬 Ask me about anything[here](https://www.linkedin.com/in/avi-kapoor-702330229) 
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/avi-kapoor-702330229) 
 - 📫 How to reach me: 15.avikapoor@gmail.com or avikapoor244@gmail.com
 - 😄 Pronouns: him
-- ⚡ Fun fact: I like taking pictures or sky 
+- ⚡ Fun fact: I like taking pictures of sky. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avikapoor24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avi-kapoor-702330229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/avikapoor16?igshid=YmMyMTA2M2Y=/)  
