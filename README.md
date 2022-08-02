@@ -34,6 +34,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikapoor24&layout=compact" />
 </div>
 
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=avikapoor24)  
 
 ![GitHub metrics](https://metrics.lecoq.io/avikapoor24)  
