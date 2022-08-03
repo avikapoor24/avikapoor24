@@ -28,7 +28,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=avikapoor24&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
->**More About me:**
+<a><h2>More About Me</h2></a>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avikapoor24&count_private=true&include_all_commits=true" />
