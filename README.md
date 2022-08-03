@@ -6,7 +6,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<a><h3>About Me</h3></a>
+<a><h2>About Me</h2></a>
 
 - 🔭 I’m currently working on this page. DSA 
 - 🌱 I’m currently learning  web development in web 3.0 
@@ -15,20 +15,20 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 😄 Pronouns: him
 - ⚡ Fun fact: I like taking pictures of sky. 
 
->**My Skills:** VUE JS / REACT / JS / HTML / CSS
+**My Skills:** VUE JS / REACT / JS / HTML / CSS
 
 
-<a><h4>Connect with me</h4></a>
+<a><h3>Connect with me</h3></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avikapoor24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/avi-kapoor-702330229)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/avikapoor16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/avikapoor_16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackexchange.com/users/25951274/avi-kapoor) 
 
 
-<a><h2>🏆 Github Profile Trophy</h2></a>
+<a><h3>🏆 Github Profile Trophy</h3></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=avikapoor24&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-<a><h2>More About Me</h2></a>
+<a><h2>My Github Status</h2></a>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avikapoor24&count_private=true&include_all_commits=true" />
