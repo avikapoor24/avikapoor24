@@ -12,7 +12,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 🌱 I’m currently learning  web development in web 3.0 
 - 💬 Ask me about anything at my [Linkdin](https://www.linkedin.com/in/avi-kapoor-702330229) 
 - 📫 How to reach me: 15.avikapoor@gmail.com or avikapoor244@gmail.com
-- 😄 Pronouns: him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like taking pictures of sky. 
 
 **My Skills:** VUE JS / REACT / JS / HTML / CSS
