@@ -10,6 +10,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like taking pictures of sky. 
 
+### My Holopin Board:
+[![@avikapoor16's Holopin board](https://holopin.io/api/user/board?user=avikapoor16)](https://holopin.io/@avikapoor16)
+
 ## ⚡ Tech Stack
 ### 🚀 Languages
 
@@ -57,7 +60,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ### My Github Stats:
 <div align="center">
 
-<a><h3>🏆 Github Profile Trophy</h3></a>
 <a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=avikapoor24&column=8&theme=gruvbox&no-frame=true"/>
 </a>
@@ -67,6 +69,3 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=avikapoor24&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
 <p align="center">
-
-###My Holopin Board:
-[![@avikapoor16's Holopin board](https://holopin.io/api/user/board?user=avikapoor16)](https://holopin.io/@avikapoor16)
