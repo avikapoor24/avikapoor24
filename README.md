@@ -1,5 +1,3 @@
-//For Github
-
 ![header banner](https://github.com/avikapoor24/avikapoor24/blob/e0811f3cd78f63c2b71a1829f2808c6b276df455/Welcome%20To%20my%20github%20(4).gif)
 
 ## About Me
@@ -59,8 +57,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ### My Github Stats:
 <div align="center">
 
-![sdf](https://github-profile-trophy.vercel.app/?username=avikapoor24&theme=theme=gruvbox&margin-w=15&margin-h=15&column=9&v=1)
-   
+<a><h3>🏆 Github Profile Trophy</h3></a>
+<a>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=avikapoor24&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+  
 <img src="https://activity-graph.herokuapp.com/graph?username=avikapoor24&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=avikapoor24&custom_title=Avi+Kapoor's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=avikapoor24&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
