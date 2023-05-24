@@ -67,10 +67,6 @@ A passionate frontend developer from India.
 
 ### My Github Stats:
 <div align="center">
-
-<a>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=avikapoor24&column=8&theme=gruvbox&no-frame=true"/>
-</a>
   
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=avikapoor24&custom_title=Avi+Kapoor's+Github+Stats&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=avikapoor24&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
