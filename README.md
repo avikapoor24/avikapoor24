@@ -4,6 +4,7 @@
 #### About Me
 A passionate frontend developer from India.
 
+<a href="https://www.twitter.com/avikapoor_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avikapoor_16" height="30" width="40" /></a>
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**  
 - 💬 Ask me about anything at my [Linkdin](https://www.linkedin.com/in/avi-kapoor-702330229) 
