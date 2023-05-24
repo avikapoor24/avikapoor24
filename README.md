@@ -5,6 +5,11 @@
 A passionate frontend developer from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikapoor24&label=Profile%20views&color=0e75b6&style=flat" alt="avikapoor24" /> </p>
+
+<a>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=avikapoor24&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
 <p align="left"> <a href="https://twitter.com/avikapoor_16" target="blank"><img src="https://img.shields.io/twitter/follow/avikapoor_16?logo=twitter&style=for-the-badge" alt="hargunkaur286" /></a> </p>
 
 - 🔭 I’m currently working on Web Development.
