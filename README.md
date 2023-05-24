@@ -5,6 +5,7 @@
 A passionate frontend developer from India.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avikapoor24&label=Profile%20views&color=0e75b6&style=flat" alt="avikapoor24" /> </p>
+<p align="left"> <a href="https://twitter.com/avikapoor_16" target="blank"><img src="https://img.shields.io/twitter/follow/avikapoor_16?logo=twitter&style=for-the-badge" alt="hargunkaur286" /></a> </p>
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**  
 - 💬 Ask me about anything at my [Linkdin](https://www.linkedin.com/in/avi-kapoor-702330229) 
