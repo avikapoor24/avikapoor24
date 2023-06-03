@@ -1,4 +1,4 @@
-<!-- ![header banner](https://github.com/avikapoor24/avikapoor24/blob/e0811f3cd78f63c2b71a1829f2808c6b276df455/Welcome%20To%20my%20github%20(4).gif) -->
+![header banner](https://github.com/avikapoor24/avikapoor24/blob/e0811f3cd78f63c2b71a1829f2808c6b276df455/Welcome%20To%20my%20github%20(4).gif)
 <h1 align="center">Hi 👋, I'm Avi Kapoor</h1>
 
 #### About Me
