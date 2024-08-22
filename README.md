@@ -15,7 +15,7 @@ A passionate frontend developer from India.
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning **React.js, Node.js, Angular.js, OpenCV**  
 - 💬 Ask me about anything at my [Linkdin](https://www.linkedin.com/in/avi-kapoor-702330229) 
-- 📫 Email me at: [15.avikapoor@gmail.com](mailto:15.avikapoor@gmail.com) or [avikapoor244@gmail.com](mailto:avikapoor244@gmail.com)
+- 📫 Email me at: [avikapoor118@gmail.com](mailto:avikapoor118@gmail.com)
 - ⚡ Fun fact: I like taking pictures of sky. 
 
 ### My Holopin Board:
